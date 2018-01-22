@@ -1,0 +1,11 @@
+{
+  "generator-openapi-repo": {
+    "importExistingSpec": true,
+    "importedSpec": "/Users/alexanderhasenkampf/ReDoc/demo/swagger.json",
+    "name": "",
+    "repo": "preout/testrepo",
+    "splitSpec": false,
+    "samples": false,
+    "installSwaggerUI": true
+  }
+}
